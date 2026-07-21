@@ -98,7 +98,7 @@ It equips organizations to **optimize marketing efforts**, **enhance customer en
 ---
 
 ## 🌐 Dashboard Preview  
-![Customer Behavior Dashboard](https://github.com/Shivam4410/Customer-Shopping-Behavior-Analysis/blob/main/BI%20Dashboard.png)
+![Customer Behavior Dashboard](https://github.com/arpitojha-357/Customer-Shopping-behaviour/blob/main/Screenshot%202026-07-21%20230442.png)
 
 ---
 
